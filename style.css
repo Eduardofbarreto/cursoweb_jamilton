@@ -1,4 +1,10 @@
-.texto{
-    color: rgb(250, 248, 248);
-    background-color: orange;
+body{
+    background-image: url(imagens/annabella/images.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-attachment: fixed;
+}
+
+.cabecalho{
+    margin-top: 420px;
 }
