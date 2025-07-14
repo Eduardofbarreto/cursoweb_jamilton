@@ -1,10 +1,26 @@
 body{
     background-image: url(imagens/annabella/images.png);
+    width: 100%;
     background-repeat: no-repeat;
     background-size: 400px;
     background-attachment: fixed;
+    border: 2px dashed yellow;
+    
 }
 
 .cabecalho{
     margin-top: 420px;
 }
+
+th, a{
+    color: black;
+    font-style:;
+    font-display:;
+}
+
+.about{
+    background-color: bisque;
+    width: 40%;
+
+}
+
