@@ -6,10 +6,17 @@ body{
 }
 
 header{
-    background-color: #fd5000;
-    color:#fff;
+    background-color: #0a7700;
+    color:#fcfcfc;
     padding: 20px 0;
     text-align: center;
+    box-shadow: 6px 8px 8px rgba(0,0,0,0.8);
+    background-image: url('imagens/fotos/IMG-20250515-WA0037.jpg');
+    border:5px double black;
+    background-size: 100px;
+    background-repeat: repeat;
+    background-position: center;
+    border-radius: 50px;
 }
 
 header h1{
@@ -88,3 +95,4 @@ footer{
     margin-top: 30px;
     
 }
+
