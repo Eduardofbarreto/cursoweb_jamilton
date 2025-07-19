@@ -1,8 +1,11 @@
-.titulo{
-    padding: 15px 15px;
-    border:2px solid red;
-    width: 350px;
-    height: 50px;
-    margin: auto;
+body{
+    background-color: #dfdfad;
 }
 
+.elemento-com-borda{
+    text-align: center;
+    border: 2px solid black;
+    width: 300px;
+    margin: auto;
+    box-shadow: 15px 10px 10px;
+}
