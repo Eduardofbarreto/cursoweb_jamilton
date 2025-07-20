@@ -10,8 +10,8 @@ header{
     color:#fcfcfc;
     padding: 20px 0;
     text-align: center;
-    box-shadow: 6px 8px 8px rgba(0,0,0,0.8);
-    background-image: url('imagens/fotos/IMG-20250515-WA0037.jpg');
+    box-shadow: -6px -8px 8px rgba(0,0,0,0.8);
+    
     border:5px double black;
     background-size: 100px;
     background-repeat: repeat;
@@ -32,8 +32,8 @@ main{
     margin:auto;
     background-color: #fff;
     padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.9);
+    border-radius: 50px;
+    box-shadow: 10 2px 5px rgba(0,0,0,0.9);
 }
 
 p.destaque{
@@ -45,6 +45,9 @@ p.destaque{
     margin-top: 15px;
     padding-top:5px;
     padding-bottom: 5px;
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
 }
 
 .botao-primario{
@@ -57,6 +60,7 @@ p.destaque{
     font-size:1em;
     margin-top:20px;
     transition: background-color:0.3s ease;
+    box-shadow:-8px -8px 15px rgba(0,0,0,0.8);
 }
 
 .botao-primario:hover{
@@ -76,7 +80,7 @@ p.destaque{
     background-color: #fff;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 22px 22px 5px rgba(0,0,0,0.1);
     text-align: center;
     flex: 1;
     min-width: 250px;
