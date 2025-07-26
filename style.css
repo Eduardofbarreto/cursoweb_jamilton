@@ -9,3 +9,40 @@
     background-color: aqua;
 
 }
+
+.container-flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 180px;
+    border: 2px solid purple;
+}
+
+.item-flex{
+    width: 120px;
+    height: 80px;
+    background-color: lightgreen;
+    border: 2px solid green;
+    text-align: center;
+    line-height: 80px;
+}
+
+.menu-navegacao{
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+    border: 5px;
+}
+
+.item-menu{
+    display: inline-block;
+    background-color: #555;
+    color: white;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: 1px solid #777;
+    border-radius: 3px;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 1;
+}
