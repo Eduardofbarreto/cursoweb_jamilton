@@ -15,10 +15,14 @@
     background-color: rgb(255, 0, 0);
     border: 1px solid gray;
     width: 200px;
-    height: 250px;
+    height: 200px;
     float: left;
     margin: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.clear{
+    clear: both;
 }
